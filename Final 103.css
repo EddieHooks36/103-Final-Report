@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: gold;
+    font-size: 60px;
+}
+input{
+    border: black solid 2px;
+
+}
+button{
+    text-align: center;
+    color: black;
+    background-color: greenyellow;
+    align-items: center;
+    margin-left: 1px;
+}
